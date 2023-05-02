@@ -1,2 +1,2 @@
 HELLO BEBROWOD
-privet 
+privet max
